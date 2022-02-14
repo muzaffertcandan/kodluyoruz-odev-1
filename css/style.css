@@ -1,0 +1,43 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar div {
+    margin: 0 2em;
+    text-align: center;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: rgb(153, 17, 153);
+    text-align: center;
+}
+h3{
+    color: yellowgreen;
+}
+.instrument-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-photos {
+    display:block;
+    padding-left: 36rem;
+}
+
+
